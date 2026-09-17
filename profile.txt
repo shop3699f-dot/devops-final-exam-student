@@ -1,0 +1,7 @@
+ชื่อ-สกุล: ทิพย์สุคนธ์ ทองหนู
+ระดับชั้น: ปวส. 1/3
+แผนกวิชา: เทคโนโลยีสารสนเทศ
+เลขที่: 043
+วันที่สอบ: 17 กันยายน 2569
+ชื่อ Repository: devops-final-exam-student
+ลิงก์ GitHub Repository: https://github.com/shop3699f-dot/devops-final-exam-student
